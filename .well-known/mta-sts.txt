@@ -1,5 +1,5 @@
       Version: STSv1
-      Mode: enforce
+      Mode: testing
       mx: mail.mah-consultant.com
       mx: mail.mail.mah-consultant.com
       max_age: 604800
